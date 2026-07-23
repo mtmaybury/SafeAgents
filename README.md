@@ -9,9 +9,9 @@
     
  <h1> All Participants please register at IJCAI Registration: </h1> 
     https://2026.ijcai.org/registration/
-
-8am Welcome – Dr. Mark Maybury (Workshop Chair) – Toward A Secure Agent Roadmap
-https://github.com/mtmaybury/SafeAgents/blob/main/0. INTRO - Safe Agent Roadmap Workshop.pdf
+<h1> Agenda: </h1> 
+8am Welcome – Dr. Mark Maybury (Workshop Chair) – 
+[Toward A Secure Agent Roadmap] (https://github.com/mtmaybury/SafeAgents/blob/main/0. INTRO - Safe Agent Roadmap Workshop.pdf)
  <h1> 8:45 am Paper Session 1: Governance </h1>  [Papers: 15 min presentation, 5 min Q&A]
 
 Neuro-Symbolic Agents for Safe and Sovereign Industrial Deployments, Daniel Porta, Gerhard Herzon, Soenke Knoch, Tim Schwarts and Wolfgang Wahlster. DFKI {firstname.lastname}@dfki.de
@@ -20,7 +20,7 @@ Control Before Consequence: Reframing Infrastructure and Governance for Agentic 
 
 Adaptive Agency: A Human-AI Co-governance Framework for Secure Grassroots Governance in Complex Urban Environments. Xin Ma  celia.ma0829@gmail.com Beijing Academy of Social Sciences
 
-9:45 am Paper Session 2: Safety and Risk [Papers: 15 min presentation, 5 min Q&A]
+<h1> 9:45 am Paper Session 2: Safety and Risk </h1> [Papers: 15 min presentation, 5 min Q&A]
 
 Why Aligned Models Are Not Enough: Toward Channel-Level Safety for Agent-to-Agent Communication. Amr Gomaa (amr.gomaa@dfki.de), German Research Centre for Artificial Intelligence
 
@@ -28,11 +28,11 @@ Risk Perspectives in Distributed AI Systems for Complex Environments. André Mey
 
 10:20: Quick Roadmap Review – All 
 
-10:30-11:00 Coffee Break
+<h1> 10:30-11:00 Coffee Break </h1> 
 
 11:30: Invited Speaker 1: Open Source Community for Model Security. Stuart Battersby, Red Hat, AI Safety & Model Evaluation Architect sbatters@redhat.com
 
-12:00 LUNCH (Not provided by IJCAI) [Roadmap Discussions Encouraged]
+<h1>12:00 LUNCH (Not provided by IJCAI) </h1> [Roadmap Discussions Encouraged]
 
 13:00 Quick Review of Draft Roadmap - Everyone
 
@@ -40,7 +40,7 @@ Risk Perspectives in Distributed AI Systems for Complex Environments. André Mey
 
 13:30pm Invited Speaker 2: Nicholas Carlini, Anthropic, formerly Google/DeepMind (Invited) nicholas@carlini.com
 
-14:00 Paper Session 3 Trust Building: Proving AI is Safe and Culturally Appropriate
+<h1> 14:00 Paper Session 3 Trust Building: Proving AI is Safe and Culturally Appropriate </h1>
  [Papers: 15 min presentation, 5 min Q&A]
 
 Cryptographic certiﬁcates of validity for trustworthy AI. Murdoch J. Gabbay, Heriot-Watt University. M.gabbay@hw.ac.uk
@@ -67,7 +67,7 @@ Designing Identity Before Tools: Human Identity and Trust as a Missing Dimension
 
 
 
-18:00 Public Panel on Safe Agents and Workshop Results - University Auditorium (capacity 500), affectionately known locally as the "Keksdose" (cookie tin). 
+<h1> 18:00 Public Panel on Safe Agents and Workshop Results </h1> - University Auditorium (capacity 500), affectionately known locally as the "Keksdose" (cookie tin). 
 
 
 
