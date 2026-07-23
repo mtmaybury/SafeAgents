@@ -5,7 +5,8 @@
     <h1> Poster: </h1> 
          https://github.com/mtmaybury/SafeAgents/blob/main/1.%20Safe%20Agents%20Poster%20IJCAI-ECAI.pdf 
         <h1> Agenda: </h1> 
-https://github.com/user-attachments/files/30285809/1.AGENDA.-.SAFE.Agent.Roadmapping.Workshop.IJCAI-ECAI.pdf
+
+    https://github.com/mtmaybury/SafeAgents/blob/main/1.%20AGENDA%20-%20SAFE%20Agent%20Roadmapping%20Workshop%20IJCAI-ECAI.pdf
 
  <h1> All Participants please register at IJCAI Registration: </h1> 
     https://2026.ijcai.org/registration/
