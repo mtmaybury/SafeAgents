@@ -10,7 +10,7 @@
  <h1> All Participants please register at IJCAI Registration: </h1> 
     https://2026.ijcai.org/registration/
 <h1> Detailed Agenda: </h1> 
-8am Welcome – Dr. Mark Maybury (Workshop Chair) – Toward A Secure Agent Roadmap] 
+8am Welcome – Dr. Mark Maybury (Workshop Chair) – [Toward A Secure Agent Roadmap](https://github.com/mtmaybury/SafeAgents/blob/main/0.%20INTRO%20-%20Safe%20Agent%20Roadmap%20Workshop.pdf)
  <h1> 8:45 am Paper Session 1: Governance </h1>  [Papers: 15 min presentation, 5 min Q&A]
 
 Neuro-Symbolic Agents for Safe and Sovereign Industrial Deployments, Daniel Porta, Gerhard Herzon, Soenke Knoch, Tim Schwarts and Wolfgang Wahlster. DFKI {firstname.lastname}@dfki.de
