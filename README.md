@@ -1,7 +1,7 @@
 
 <html>
   <body>
-    <h1>Welcome to the 2026 ICJAI-ECAI Safe Agent Roadmapping Workshop</h1> 
+    <h1>Welcome to the 2026 ICJAI-ECAI Safe Agent Roadmapping Workshop </h1> 
     <h1> To particpate please register at IJCAI Registration: </h1> 
     https://2026.ijcai.org/registration/
     
