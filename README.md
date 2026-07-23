@@ -9,9 +9,8 @@
     
  <h1> All Participants please register at IJCAI Registration: </h1> 
     https://2026.ijcai.org/registration/
-<h1> Agenda: </h1> 
-8am Welcome – Dr. Mark Maybury (Workshop Chair) – 
-[Toward A Secure Agent Roadmap] (https://github.com/mtmaybury/SafeAgents/blob/main/0. INTRO - Safe Agent Roadmap Workshop.pdf)
+<h1> Detailed Agenda: </h1> 
+8am Welcome – Dr. Mark Maybury (Workshop Chair) – Toward A Secure Agent Roadmap] 
  <h1> 8:45 am Paper Session 1: Governance </h1>  [Papers: 15 min presentation, 5 min Q&A]
 
 Neuro-Symbolic Agents for Safe and Sovereign Industrial Deployments, Daniel Porta, Gerhard Herzon, Soenke Knoch, Tim Schwarts and Wolfgang Wahlster. DFKI {firstname.lastname}@dfki.de
@@ -30,7 +29,7 @@ Risk Perspectives in Distributed AI Systems for Complex Environments. André Mey
 
 <h1> 10:30-11:00 Coffee Break </h1> 
 
-11:30: Invited Speaker 1: Open Source Community for Model Security. Stuart Battersby, Red Hat, AI Safety & Model Evaluation Architect sbatters@redhat.com
+<h1>  11:30: Invited Speaker 1 </h1> Open Source Community for Model Security. Stuart Battersby, Red Hat, AI Safety & Model Evaluation Architect sbatters@redhat.com
 
 <h1>12:00 LUNCH (Not provided by IJCAI) </h1> [Roadmap Discussions Encouraged]
 
@@ -38,7 +37,7 @@ Risk Perspectives in Distributed AI Systems for Complex Environments. André Mey
 
 13:10 Mitigating Risks Across the Life Cycle of Generative Artificial Intelligence. Mark Maybury. Mark.t.maybury@lmco.com. Lockheed Martin
 
-13:30pm Invited Speaker 2: Nicholas Carlini, Anthropic, formerly Google/DeepMind (Invited) nicholas@carlini.com
+<h1> 13:30pm Invited Speaker 2 </h1> Nicholas Carlini, Anthropic, formerly Google/DeepMind (Invited) nicholas@carlini.com
 
 <h1> 14:00 Paper Session 3 Trust Building: Proving AI is Safe and Culturally Appropriate </h1>
  [Papers: 15 min presentation, 5 min Q&A]
@@ -47,11 +46,11 @@ Cryptographic certiﬁcates of validity for trustworthy AI. Murdoch J. Gabbay, H
 
 Designing Identity Before Tools: Human Identity and Trust as a Missing Dimension in Agentic AI Safety. Marco Nieschka and Kordula Hildebrandt, HILDEBRANDT FILM GmbH marco.nieschka@hildebrandt-film.de and kordula.hildebrandt@hildebrandt-film.de.
 
-14:40 Invited Speaker 3: Dr. Florian Tramèr (ETH Zurick). AgentDojo: A Dynamic Environment to Evaluate Prompt Injection (2025). florian.tramer@inf.ethz.ch (Invited)  
+<h1>14:40 Invited Speaker 3 </h1> Dr. Florian Tramèr (ETH Zurick). AgentDojo: A Dynamic Environment to Evaluate Prompt Injection (2025). florian.tramer@inf.ethz.ch (Invited)  
 
 15:15 Review of Draft Roadmap
 
-15:30-16:00 Coffee Break
+<h1>15:30-16:00 Coffee Break  </h1> 
 
 16:30 Panel
 
@@ -66,13 +65,7 @@ Designing Identity Before Tools: Human Identity and Trust as a Missing Dimension
 17:45 End
 
 
-
 <h1> 18:00 Public Panel on Safe Agents and Workshop Results </h1> - University Auditorium (capacity 500), affectionately known locally as the "Keksdose" (cookie tin). 
-
-
-
-
-
 
 
     
