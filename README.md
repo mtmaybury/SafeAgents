@@ -37,7 +37,7 @@ Risk Perspectives in Distributed AI Systems for Complex Environments. André Mey
 
 13:10 Mitigating Risks Across the Life Cycle of Generative Artificial Intelligence. Mark Maybury. Mark.t.maybury@lmco.com. Lockheed Martin
 
-<h1> 13:30pm Invited Speaker 2 </h1> Nicholas Carlini, Anthropic, formerly Google/DeepMind (Invited) nicholas@carlini.com
+<h1> 13:30 Invited Speaker 2 </h1> Nicholas Carlini, Anthropic, formerly Google/DeepMind (Invited) nicholas@carlini.com
 
 <h1> 14:00 Paper Session 3 Trust Building: Proving AI is Safe and Culturally Appropriate </h1>
  [Papers: 15 min presentation, 5 min Q&A]
