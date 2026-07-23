@@ -4,14 +4,15 @@
     <h1>Welcome to the 2026 ICJAI-ECAI Safe Agent Roadmapping Workshop</h1> 
     <h1> Poster: </h1> 
          https://github.com/mtmaybury/SafeAgents/blob/main/1.%20Safe%20Agents%20Poster%20IJCAI-ECAI.pdf 
-        <h1> Agenda: </h1> 
+        <h1> Formatted Agenda: </h1> 
         https://github.com/mtmaybury/SafeAgents/blob/main/1.%20AGENDA%20-%20SAFE%20Agent%20Roadmapping%20Workshop%20IJCAI-ECAI.pdf
     
  <h1> All Participants please register at IJCAI Registration: </h1> 
     https://2026.ijcai.org/registration/
 
 8am Welcome – Dr. Mark Maybury (Workshop Chair) – Toward A Secure Agent Roadmap
-8:45 am Paper Session 1: Governance  [Papers: 15 min presentation, 5 min Q&A]
+https://github.com/mtmaybury/SafeAgents/blob/main/0. INTRO - Safe Agent Roadmap Workshop.pdf
+ <h1> 8:45 am Paper Session 1: Governance </h1>  [Papers: 15 min presentation, 5 min Q&A]
 
 Neuro-Symbolic Agents for Safe and Sovereign Industrial Deployments, Daniel Porta, Gerhard Herzon, Soenke Knoch, Tim Schwarts and Wolfgang Wahlster. DFKI {firstname.lastname}@dfki.de
 
