@@ -4,8 +4,9 @@
     <h1>Welcome to the 2026 ICJAI-ECAI Safe Agent Roadmapping Workshop</h1> 
     <h1> To particpate please register at IJCAI Registration: </h1> 
     https://2026.ijcai.org/registration/
-        <h1> Formatted Agenda: </h1> 
-        https://github.com/mtmaybury/SafeAgents/blob/main/1.%20AGENDA%20-%20SAFE%20Agent%20Roadmapping%20Workshop%20IJCAI-ECAI.pdf
+    
+    <h1> Formatted Agenda: </h1> 
+    https://github.com/mtmaybury/SafeAgents/blob/main/1.%20AGENDA%20-%20SAFE%20Agent%20Roadmapping%20Workshop%20IJCAI-ECAI.pdf
 
 <h1> Detailed Agenda: </h1> 
 8am Welcome – Dr. Mark Maybury (Workshop Chair) – [Toward A Secure Agent Roadmap](https://github.com/mtmaybury/SafeAgents/blob/main/0.%20INTRO%20-%20Safe%20Agent%20Roadmap%20Workshop.pdf)
