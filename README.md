@@ -10,19 +10,20 @@
 
 <h1> Detailed Agenda: </h1> 
 8am Welcome – Dr. Mark Maybury (Workshop Chair) – [Toward A Secure Agent Roadmap](https://github.com/mtmaybury/SafeAgents/blob/main/0.%20INTRO%20-%20Safe%20Agent%20Roadmap%20Workshop.pdf)
- <h1> 8:45 am Paper Session 1: Governance </h1>  [Papers: 15 min presentation, 5 min Q&A]
 
-[Neuro-Symbolic Agents for Safe and Sovereign Industrial Deployments](https://github.com/mtmaybury/SafeAgents/blob/main/1.1%20Neuro-Symbolic%20AgentsSAFER-%20Daniel%20Porta%20Wolfgang%20Wahlster%20et%20al%20DFKI.pdf), Daniel Porta, Gerhard Herzon, Soenke Knoch, Tim Schwarts and Wolfgang Wahlster. DFKI {firstname.lastname}@dfki.de
+ <h1> 8:40 am Paper Session 1: Safety and Risk </h1>  [Papers: 15 min presentation, 5 min Q&A]
+
+[Neuro-Symbolic Agents for Safe, Sovereign and Auditable AI Systems on the Shop Floor](https://github.com/mtmaybury/SafeAgents/blob/main/1.1%20Neuro-Symbolic%20AgentsSAFER-%20Daniel%20Porta%20Wolfgang%20Wahlster%20et%20al%20DFKI.pdf), Daniel Porta, Gerhard Sonnenberg, Gerhard Herzog, Soenke Knoch, Tim Schwarts and Wolfgang Wahlster. German Research Center for AI Research (DFKI) {firstname.lastname}@dfki.de
+
+[Risk Perspectives in Distributed AI Systems for Complex Environments](https://github.com/mtmaybury/SafeAgents/blob/main/2.2%20Risks_in_Distributed_AI__SAFER_IJCAI_ECAI_26%20-%20Meyer-Vitali%20et%20al%20DFKI.pdf). André Meyer-Vitali (andre@meyer-vitali.com) and Rodica Mihai (rodica.g.mihai@norceresearch.no). German Research Centre for Artificial Intelligence
+
+<h1> 9:20 am Paper Session 2: Governance </h1> [Papers: 15 min presentation, 5 min Q&A]
+
+Governance frameworks for the safe development, deployment, and competition in emerging technologies, such as AI. Ms. Josephine Liu, Chair, APAC Tech Policy Committee, Association for Computing Machinery. 
 
 [Control Before Consequence: Reframing Infrastructure and Governance for Agentic AI Systems](https://github.com/mtmaybury/SafeAgents/blob/main/1.2%20Control_Before_Consequence_IJCAI_SAFER2026_CameraReady_v2.1.pdf) - charlemagnevolt-hub Dr. Bernasco, drtorstenbernasco@gmail.com, Aramvolt
 
 [Adaptive Agency: A Human-AI Co-governance Framework for Secure Grassroots Governance in Complex Urban Environments](https://github.com/mtmaybury/SafeAgents/blob/main/1.3%20Adaptive%20Agency-final%20-%20Ma%20Xin%20and%20Zhu%20Bing.pdf). Xin Ma  celia.ma0829@gmail.com Beijing Academy of Social Sciences
-
-<h1> 9:45 am Paper Session 2: Safety and Risk </h1> [Papers: 15 min presentation, 5 min Q&A]
-
-W[hy Aligned Models Are Not Enough: Toward Channel-Level Safety for Agent-to-Agent Communication](https://github.com/mtmaybury/SafeAgents/blob/main/2.1%20LINE%20Numbers%20-%20Why%20Aligned%20Models%20Are%20Not%20Enough%20-%20Amr%20Gomaa.pdf). Amr Gomaa (amr.gomaa@dfki.de), German Research Centre for Artificial Intelligence
-
-[Risk Perspectives in Distributed AI Systems for Complex Environments](https://github.com/mtmaybury/SafeAgents/blob/main/2.2%20Risks_in_Distributed_AI__SAFER_IJCAI_ECAI_26%20-%20Meyer-Vitali%20et%20al%20DFKI.pdf). André Meyer-Vitali (andre@meyer-vitali.com) and Rodica Mihai (rodica.g.mihai@norceresearch.no). German Research Centre for Artificial Intelligence
 
 10:20: Quick Roadmap Review – All 
 
@@ -65,6 +66,9 @@ W[hy Aligned Models Are Not Enough: Toward Channel-Level Safety for Agent-to-Age
 
 
 <h1> 18:00 Public Panel on Safe Agents and Workshop Results </h1> - [University Auditorium](https://www.uni-bremen.de/en/klips-kjp/snrac-conference/venue-and-travel) (capacity 500), affectionately known locally as the "[Keksdose](https://www.instagram.com/p/CjVRKLFj0k_/)" (cookie tin). 
+
+Unable to attend: [Why Aligned Models Are Not Enough: Toward Channel-Level Safety for Agent-to-Agent Communication](https://github.com/mtmaybury/SafeAgents/blob/main/2.1%20LINE%20Numbers%20-%20Why%20Aligned%20Models%20Are%20Not%20Enough%20-%20Amr%20Gomaa.pdf). Amr Gomaa (amr.gomaa@dfki.de), German Research Centre for Artificial Intelligence
+
 
 [Register for the public panel with a free ticket here](https://2026.ijcai.org/outreach/)
 
