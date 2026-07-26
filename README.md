@@ -1,12 +1,12 @@
 
 <html>
   <body>
-    <h1>Welcome to the 2026 ICJAI-ECAI Safe Agent Roadmapping Workshop </h1> 
+    <h1> Welcome to the 2026 ICJAI-ECAI Safe Agent Roadmapping Workshop </h1> 
     <h1> To participate please register at IJCAI Registration: </h1> 
-    (https://2026.ijcai.org/registration/)
-    
-    <h1> Formatted Agenda: </h1> 
-    [Agenda](https://github.com/mtmaybury/SafeAgents/blob/main/1.%20AGENDA%20-%20SAFE%20Agent%20Roadmapping%20Workshop%20IJCAI-ECAI.pdf)
+    {Register](https://2026.ijcai.org/registration/)
+    <p></p>
+    <h1> [Formatted Agenda:] </h1> 
+    (https://github.com/mtmaybury/SafeAgents/blob/main/1.%20AGENDA%20-%20SAFE%20Agent%20Roadmapping%20Workshop%20IJCAI-ECAI.pdf)
 
 <h1> Detailed Agenda: </h1> 
 8am Welcome – Dr. Mark Maybury (Workshop Chair) – [Toward A Secure Agent Roadmap](https://github.com/mtmaybury/SafeAgents/blob/main/0.%20INTRO%20-%20Safe%20Agent%20Roadmap%20Workshop.pdf)
@@ -66,7 +66,7 @@ Governance frameworks for the safe development, deployment, and competition in e
 
 
 <h1> 18:00 Public Panel on Safe Agents and Workshop Results </h1> - [University Auditorium](https://www.uni-bremen.de/en/klips-kjp/snrac-conference/venue-and-travel) (capacity 500), affectionately known locally as the "[Keksdose](https://www.instagram.com/p/CjVRKLFj0k_/)" (cookie tin). 
-
+ <p></p>
 Unable to attend: [Why Aligned Models Are Not Enough: Toward Channel-Level Safety for Agent-to-Agent Communication]
 (https://github.com/mtmaybury/SafeAgents/blob/main/2.1%20Why%20Aligned%20Models%20Are%20Not%20Enough%20-%20Amr%20Goma.pdf), Amr Gomaa (amr.gomaa@dfki.de), German Research Centre for Artificial Intelligence
 
