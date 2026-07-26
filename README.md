@@ -3,7 +3,7 @@
   <body>
     <h1> Welcome to the 2026 ICJAI-ECAI Safe Agent Roadmapping Workshop </h1> 
     <h1> To participate please register at IJCAI Registration: </h1> 
-    (https://2026.ijcai.org/registration/)
+    https://2026.ijcai.org/registration/
     <p></p>
     <h1> [Formatted Agenda:] </h1> 
     (https://github.com/mtmaybury/SafeAgents/blob/main/1.%20AGENDA%20-%20SAFE%20Agent%20Roadmapping%20Workshop%20IJCAI-ECAI.pdf)
