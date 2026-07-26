@@ -13,7 +13,7 @@
 
  <h1> 8:40 am Paper Session 1: Safety and Risk </h1>  [Papers: 15 min presentation, 5 min Q&A]
 
-[Neuro-Symbolic Agents for Safe, Sovereign and Auditable AI Systems on the Shop Floor](https://github.com/mtmaybury/SafeAgents/blob/main/1.1%20Neuro-Symbolic%20AgentsSAFER-%20Daniel%20Porta%20Wolfgang%20Wahlster%20et%20al%20DFKI.pdf), Daniel Porta, Gerhard Sonnenberg, Gerhard Herzog, Soenke Knoch, Tim Schwarts and Wolfgang Wahlster. German Research Center for Artificial Intelligence (DFKI) {firstname.lastname}@dfki.de
+[Neuro-Symbolic Agents for Safe, Sovereign and Auditable AI Systems on the Shop Floor](https://github.com/mtmaybury/SafeAgents/blob/main/1.1%20Neuro-Symbolic%20AgentsSAFER-%20Daniel%20Porta%20Wolfgang%20Wahlster%20et%20al%20DFKI.pdf), Daniel Porta, Gerhard Sonnenberg, Gerhard Herzog, Sönke Knoch, Tim Schwartz and Wolfgang Wahlster. German Research Center for Artificial Intelligence (DFKI) {firstname.lastname}@dfki.de
 
 [Risk Perspectives in Distributed AI Systems for Complex Environments](https://github.com/mtmaybury/SafeAgents/blob/main/2.2%20Risks_in_Distributed_AI__SAFER_IJCAI_ECAI_26%20-%20Meyer-Vitali%20et%20al%20DFKI.pdf). André Meyer-Vitali (andre@meyer-vitali.com) and Rodica Mihai (rodica.g.mihai@norceresearch.no). German Research Centre for Artificial Intelligence (DFKI)
 
