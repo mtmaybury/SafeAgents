@@ -29,7 +29,7 @@ Governance frameworks for the safe development, deployment, and competition in e
 
 <h1> 10:30-11:00 Coffee Break </h1> 
 
-<h1>  11:30: Invited Speaker </h1> [Open Source Community for Model Security](https://github.com/mtmaybury/SafeAgents/blob/main/0.%20Stuart%20Battersby%20Red%20Hat%20-%20Open%20Source%20Community.pdf). Stuart Battersby, Red Hat, AI Safety & Model Evaluation Architect sbatters@redhat.com
+<h1>  11:00: Invited Speaker </h1> [Open Source Community for Model Security](https://github.com/mtmaybury/SafeAgents/blob/main/0.%20Stuart%20Battersby%20Red%20Hat%20-%20Open%20Source%20Community.pdf). Stuart Battersby, Red Hat, AI Safety & Model Evaluation Architect sbatters@redhat.com
 
 <h1>12:00 LUNCH (Not provided by IJCAI) </h1> [Roadmap Discussions Encouraged]
 
@@ -48,7 +48,7 @@ Governance frameworks for the safe development, deployment, and competition in e
 
 <h1>15:30-16:00 Coffee Break  </h1> 
 
-16:30 Panel
+16:00 Panel
 
 •	Dr. Mark Maybury, VP Commercialization, Lockheed Martin; Board Director, Advanced Cyber Security Center. mark.t.maybury@lmco.com (moderator)
 •	Prof. Wolfgang Wahlster, Founding Director and CEA, DFKI. Wolfgang.Wahlster@dfki.de
@@ -56,9 +56,9 @@ Governance frameworks for the safe development, deployment, and competition in e
 •	Dr. Francesca Rossi, IBM Fellow, IBM Global Leader for Responsible AI and AI Governance, T.J. Watson Research Center, Yorktown Heights, USA Francesca.Rossi2@ibm.com
 •	Dr. Mihai Christodorescu, Research Scientist, Security and Privacy, Google, christodorescu@google.com
 
-17:30 Final Roadmap,  Closing Discussion, Future Directions
+17:00 Final Roadmap,  Concluding Discussion, Future Directions
 
-17:45 End
+17:45 Closing
 
 
 <h1> 18:00 Public Panel on Safe Agents and Workshop Results </h1> - [University Auditorium](https://www.uni-bremen.de/en/klips-kjp/snrac-conference/venue-and-travel) (capacity 500), affectionately known locally as the "[Keksdose](https://www.instagram.com/p/CjVRKLFj0k_/)" (cookie tin). 
