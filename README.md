@@ -35,7 +35,7 @@ Governance frameworks for the safe development, deployment, and competition in e
 
 13:00 [Mitigating Risks Across the Life Cycle of Generative Artificial Intelligence](https://github.com/mtmaybury/SafeAgents/blob/main/2.3%20Mitigating%20Risks%20Across%20the%20Life%20Cycle%20of%20Gen%20AI%20-%20IJCAI26%20-%20v5%20-%20Maybury.pdf). Mark Maybury. Mark.t.maybury@lmco.com. Lockheed Martin
 
-<h1> 13:20 Review of Draft Roadmap </h1> - Everyone
+<h1> 13:20 Review of Draft Roadmap - Everyone </h1>
 
 <h1> 14:00 Paper Session 3 Trust Building: Proving AI is Safe and Culturally Appropriate </h1>
  [Papers: 15 min presentation, 5 min Q&A]
@@ -44,7 +44,7 @@ Governance frameworks for the safe development, deployment, and competition in e
 
 [Designing Identity Before Tools: Human Identity and Trust as a Missing Dimension in Agentic AI Safety](https://github.com/mtmaybury/SafeAgents/blob/main/3.2%20IdentityBeforeTools%20-%20Marco%20Nieschka%20et%20al%20Hildebrant%20Camera%20Ready.pdf). Marco Nieschka and Kordula Hildebrandt, HILDEBRANDT FILM GmbH marco.nieschka@hildebrandt-film.de and kordula.hildebrandt@hildebrandt-film.de.
 
-<h1>14:40 Final Review of the Roadmap </h1> - Everyone  
+<h1>14:40 Final Review of the Roadmap - Everyone </h1>   
 
 <h1>15:30-16:00 Coffee Break  </h1> 
 
