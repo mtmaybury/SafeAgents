@@ -29,15 +29,13 @@ Governance frameworks for the safe development, deployment, and competition in e
 
 <h1> 10:30-11:00 Coffee Break </h1> 
 
-<h1>  11:30: Invited Speaker 1 </h1> [Open Source Community for Model Security](https://github.com/mtmaybury/SafeAgents/blob/main/0.%20Stuart%20Battersby%20Red%20Hat%20-%20Open%20Source%20Community.pdf). Stuart Battersby, Red Hat, AI Safety & Model Evaluation Architect sbatters@redhat.com
+<h1>  11:30: Invited Speaker </h1> [Open Source Community for Model Security](https://github.com/mtmaybury/SafeAgents/blob/main/0.%20Stuart%20Battersby%20Red%20Hat%20-%20Open%20Source%20Community.pdf). Stuart Battersby, Red Hat, AI Safety & Model Evaluation Architect sbatters@redhat.com
 
 <h1>12:00 LUNCH (Not provided by IJCAI) </h1> [Roadmap Discussions Encouraged]
 
-13:00 Quick Review of Draft Roadmap - Everyone
+13:00 [Mitigating Risks Across the Life Cycle of Generative Artificial Intelligence](https://github.com/mtmaybury/SafeAgents/blob/main/2.3%20Mitigating%20Risks%20Across%20the%20Life%20Cycle%20of%20Gen%20AI%20-%20IJCAI26%20-%20v5%20-%20Maybury.pdf). Mark Maybury. Mark.t.maybury@lmco.com. Lockheed Martin
 
-13:10 [Mitigating Risks Across the Life Cycle of Generative Artificial Intelligence](https://github.com/mtmaybury/SafeAgents/blob/main/2.3%20Mitigating%20Risks%20Across%20the%20Life%20Cycle%20of%20Gen%20AI%20-%20IJCAI26%20-%20v5%20-%20Maybury.pdf). Mark Maybury. Mark.t.maybury@lmco.com. Lockheed Martin
-
-<h1> 13:30 Invited Speaker 2 </h1> Nicholas Carlini, Anthropic, formerly Google/DeepMind (Invited) nicholas@carlini.com
+<h1> 13:20 Review of Draft Roadmap </h1> - Everyone
 
 <h1> 14:00 Paper Session 3 Trust Building: Proving AI is Safe and Culturally Appropriate </h1>
  [Papers: 15 min presentation, 5 min Q&A]
@@ -46,9 +44,7 @@ Governance frameworks for the safe development, deployment, and competition in e
 
 [Designing Identity Before Tools: Human Identity and Trust as a Missing Dimension in Agentic AI Safety](https://github.com/mtmaybury/SafeAgents/blob/main/3.2%20IdentityBeforeTools%20-%20Marco%20Nieschka%20et%20al%20Hildebrant%20Camera%20Ready.pdf). Marco Nieschka and Kordula Hildebrandt, HILDEBRANDT FILM GmbH marco.nieschka@hildebrandt-film.de and kordula.hildebrandt@hildebrandt-film.de.
 
-<h1>14:40 Invited Speaker 3 </h1> Dr. Florian Tramèr (ETH Zurick). [AgentDojo: A Dynamic Environment to Evaluate Prompt Injection (2025)](https://openreview.net/pdf?id=m1YYAQjO3w). florian.tramer@inf.ethz.ch (Invited)  
-
-15:15 Review of Draft Roadmap
+<h1>14:40 Final Review of the Roadmap </h1> - Everyone  
 
 <h1>15:30-16:00 Coffee Break  </h1> 
 
@@ -72,7 +68,7 @@ Governance frameworks for the safe development, deployment, and competition in e
 Unable to attend: [Why Aligned Models Are Not Enough: Toward Channel-Level Safety for Agent-to-Agent Communication]
 (https://github.com/mtmaybury/SafeAgents/blob/main/2.1%20Why%20Aligned%20Models%20Are%20Not%20Enough%20-%20Amr%20Goma.pdf), Amr Gomaa (amr.gomaa@dfki.de), German Research Centre for Artificial Intelligence
 
-
+Unable to attend:  [AgentDojo: A Dynamic Environment to Evaluate Prompt Injection (2025)](https://openreview.net/pdf?id=m1YYAQjO3w). Dr. Florian Tramèr (ETH Zurick). florian.tramer@inf.ethz.ch 
 
 <h1> Poster: </h1> 
          https://github.com/mtmaybury/SafeAgents/blob/main/1.%20Safe%20Agents%20Poster%20IJCAI-ECAI.pdf     
