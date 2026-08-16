@@ -12,6 +12,7 @@
 
  <h2> 8:30 Registration Opens </h2>
  <h2> 8:45 Early arrival sneak peak of Safe Agent Roadmap </h2>
+ <h2>[Draft Roadmap Paper]</h2>(https://github.com/mtmaybury/SafeAgents/blob/main/0.%20Safe%20Agent%20Roadmap%20Paper%20PDF.pdf)
 
 <h1> 9am Welcome – Dr. Mark Maybury (Workshop Chair) </h1>  [Toward A Secure Agent Roadmap](https://github.com/mtmaybury/SafeAgents/blob/main/0.%20INTRO%20-%20Safe%20Agent%20Roadmap%20Workshop.pdf)
 
